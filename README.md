@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat Kaya</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fratk21&label=Profile%20views&color=0e75b6&style=flat" alt="fratk21" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fratk21" alt="fratk21" /></a> </p>
 
