@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fratk21)](https://git.io/streak-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/fratk21/svg/avgupta456/langs)](https://githubtrends.io)
