@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fırat Kaya</h1>
 <h3 align="center">Flutter Developer</h3>
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fratk21&label=Profile%20views&color=0e75b6&style=flat" alt="fratk21" /> </p>
 
 - 🌱 I’m currently learning **Nodejs,JavaScript**
 
@@ -25,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fratk21&show_icons=true&locale=en&layout=compact" alt="fratk21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fratk21&show_icons=true&locale=en" alt="fratk21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fratk21&" alt="fratk21" /></p>
