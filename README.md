@@ -3,11 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fratk21&label=Profile%20views&color=0e75b6&style=flat" alt="fratk21" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fratk21" alt="fratk21" /></a> </p>
+
+- 🌱 I’m currently learning **Nodejs,JavaScript**
+
+- 📝 I regularly write articles on [frtkaya.com](frtkaya.com)
+
 - 💬 Ask me about **Flutter, C#, Pyhton**
+
+- 📫 How to reach me **contact via linkedin**
+
+- 📄 Know about my experiences [frtkaya.com](frtkaya.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fırat-kaya-101276202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fırat kaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fırat-kaya-101276202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fırat-kaya-101276202" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fratk21&show_icons=true&locale=en&layout=compact" alt="fratk21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fratk21&show_icons=true&locale=en" alt="fratk21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fratk21&" alt="fratk21" /></p>
