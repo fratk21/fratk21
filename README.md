@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Nodejs,JavaScript**
 
-- 📝 I regularly write articles on [frtkaya.com](frtkaya.com)
-
 - 💬 Ask me about **Flutter, C#, Pyhton**
 
 - 📫 How to reach me **contact via linkedin**
